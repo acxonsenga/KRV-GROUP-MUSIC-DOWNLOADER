@@ -1,0 +1,27 @@
+*{
+  padding: 0%;
+     margin: auto;
+}
+body{ 
+    background-color: wheat;
+}
+a:link, a:visited {
+    background-color: red;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: black;
+  }
+  .myDiv {
+    border: 5px outset red;
+    background-color: rgb(243, 226, 226);
+    text-align: center;
+    padding: auto;
+    margin-bottom: 100%;
+  }
+  
